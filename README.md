@@ -1,5 +1,5 @@
-# Sample-Documents
-Sample documents of proofs, solutions to exams, and notes, written during my computer science degree. 
+# Selected-Documents
+Some selected documents of proofs, solutions to exams, and notes, written during my computer science degree. 
 
 - **ProofTheory.pdf** corresponds to the notes taken while reading the book "Structural Proof Theory" by
   Sara Negri and Jan Von Plato. The notes include concepts from the first 3 chapters of the book, like the 
